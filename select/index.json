@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "光あれ",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:19:39.484717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光あれ",
+      "artist": "Akihito Okano",
+      "has_synced": true,
+      "path": "select/01_光あれ_Akihito_Okano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "“光あれ”と願う心",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/02_“光あれ”と願う心_榊原ゆい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光あれ",
+      "artist": "Akihito Okano",
+      "has_synced": true,
+      "path": "select/03_光あれ_Akihito_Okano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "\"光あれ\"と願う心を",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/04_光あれ_と願う心を_榊原ゆい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光あれ (feat. 安次嶺希和子)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_光あれ_(feat._安次嶺希和子)_未来古代楽団.txt"
+    }
+  ]
+}
